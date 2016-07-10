@@ -21,4 +21,4 @@ Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
 #####Credits:
 All French translations for MIUI8 are licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
 Authors: Mi France, Abdess, Burnarz, cpasmoi, discom38, Guiluge, ingbrzy, Acid, Matzounet & s0me-1
-More information : https://github.com/MiFrance/miui-xml-V7-FRENCH
+More information : https://github.com/MiFrance/Miui8-xml-FRENCH
