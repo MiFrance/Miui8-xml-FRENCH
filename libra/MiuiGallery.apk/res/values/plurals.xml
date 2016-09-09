@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these people?"</item>
-        <item quantity="one">"Don't show this person?"</item>
+        <item quantity="other">"Ne pas montrer ces personnes ??"</item>
+        <item quantity="one">"Ne pas montrer cette personne?"</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s photos of %2$s >></item>
-        <item quantity="one">%1$s photo of %2$s >></item>
+        <item quantity="other">%1$s photos de %2$s >></item>
+        <item quantity="one">%1$s photo de %2$s >></item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d years</item>
         <item quantity="one">%d year</item>
     </plurals>
     <plurals name="age_month">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
+        <item quantity="other">%d mois</item>
+        <item quantity="one">%d mois</item>
     </plurals>
     <plurals name="age_day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d jours</item>
+        <item quantity="one">%d jour</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s will be added</item>
-        <item quantity="one">%1$d photo of %2$s will be added</item>
+        <item quantity="other">%1$d photos de %2$s vont être ajoutées</item>
+        <item quantity="one">%1$d photo de %2$s vont être ajoutées</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d photos of %2$s will be added</item>
         <item quantity="one">%1$d photo of %2$s will be added</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Shared to %d people</item>
-        <item quantity="one">Shared to %d person</item>
+        <item quantity="other">Partagé à %d personnes</item>
+        <item quantity="one">Partagé à %d personne</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Selected photos aren't on device. Download them using mobile data?"</item>
@@ -45,8 +45,8 @@
         <item quantity="one">"Selected photo isn't on device. It will be downloaded."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, try again?"</item>
-        <item quantity="one">"Couldn't download photo, try again?"</item>
+        <item quantity="other">"Impossible de télécharger %1$d photos, rééssayer?"</item>
+        <item quantity="one">"Impossible de télécharger cette photo, rééssayer?"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"Couldn't download %1$d photos (%2$dMB), try again?"</item>
@@ -57,12 +57,12 @@
         <item quantity="one">Cancel downloading the remaining photo?</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">Delete %1$d photos %2$s?</item>
-        <item quantity="one">Delete this photo %2$s?</item>
+        <item quantity="other">Supprimer %1$d photos %2$s?</item>
+        <item quantity="one">Supprimer cette photo %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Delete %1$d videos %2$s?</item>
-        <item quantity="one">Delete this video %2$s?</item>
+        <item quantity="other">Supprimer %1$d vidéos %2$s?</item>
+        <item quantity="one">Supprimer cette vidéo %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
         <item quantity="other">Delete %1$d items %2$s?</item>
@@ -97,8 +97,8 @@
         <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
-        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+        <item quantity="other">Votre espace de stockage Mi Cloud est plein. %1$d éléments sont en attente de sauvegarde.</item>
+        <item quantity="one">Votre espace de stockage Mi Cloud est plein. %1$d élément est en attente de sauvegarde</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
